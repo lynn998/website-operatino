@@ -7,7 +7,7 @@
 
 
 #### Web辅助功能入门编写技巧 Tips for Getting Started Writing for Web Accessibility
-
+> ![web辅助功能入门编写技巧.jpg](https://upload-images.jianshu.io/upload_images/9746829-6ac1216d82db6264.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 
 **1、提供信息丰富，独特的页面标题** Provide informative, unique page titles
@@ -15,7 +15,7 @@
 对于每个网页，提供描述页面内容的简短标题，并将其与其他页面区分开来。页面标题通常与页面的主标题相同。首先提供独特和最相关的信息；例如，将页面名称放在组织名称之前。对于属于多步骤过程的页面，请在页面标题中包含当前步骤。
 
 
-> ![原则1 提供信息丰富，独特的页面标题.jpg](https://upload-images.jianshu.io/upload_images/9746829-6ac1216d82db6264.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![原则1 提供信息丰富，独特的页面标题.jpg](https://upload-images.jianshu.io/upload_images/9746829-4e424aabc2ae0442.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 示例：页面标题 
 - 主页标题——Space Teddy Inc. 
@@ -28,13 +28,12 @@
 
 使用简短标题对相关段落进行分组，并清楚地描述各个部分。好的标题提供了内容的概述。
 
-> ![原则2 使用标题来表达意义和结构.jpg](https://upload-images.jianshu.io/upload_images/9746829-4e424aabc2ae0442.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-
+> ![原则2 使用标题来表达意义和结构.jpg](https://upload-images.jianshu.io/upload_images/9746829-96f7bdf6908df4cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 示例：使用标题来组织内容 
 - 左边是缺乏标题 
 - 右边是使用标题和副标题
 
-> ![原则2（2）.jpg](https://upload-images.jianshu.io/upload_images/9746829-96f7bdf6908df4cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![原则2（2）.jpg](https://upload-images.jianshu.io/upload_images/9746829-35d717673e6eebbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ***
 
@@ -42,7 +41,7 @@
 
 编写链接文本，以便描述链接目标的内容。避免使用含糊不清的链接文本，例如“点击此处”或“阅读更多”。指示有关链接目标的相关信息，例如文档类型和大小，例如“提案文档（RTF，20MB）”。
 
-> ![原则3 使链接文本有意义.jpg](https://upload-images.jianshu.io/upload_images/9746829-35d717673e6eebbb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![原则3 使链接文本有意义.jpg](https://upload-images.jianshu.io/upload_images/9746829-cb8e95234749d813.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 示例：使用链接文本描述目标页面 
 - 左边是无信息 
@@ -54,8 +53,7 @@
 
 对于每个图像，编写提供图像信息或功能的替代文本。对于纯装饰图像，不需要编写替代文本。
 
-> ![原则4 为图像编写有意义的文本替代品 .jpg](https://upload-images.jianshu.io/upload_images/9746829-cb8e95234749d813.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+> ![原则4 为图像编写有意义的文本替代品 .jpg](https://upload-images.jianshu.io/upload_images/9746829-6514f65c98e456e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >左边：无信息 
 - 为手机充电：使用随附的电缆和电源适配器将手机连接至电源插座。 
 图片的替代文字：“充电电话”
@@ -72,15 +70,14 @@
 
 对于纯音频内容，这样的播客提供成绩单。对于音频和视频内容，例如培训视频，还提供字幕。在成绩单和标题中包含对理解内容很重要的口头信息和声音，例如“门吱吱”。对于视频脚本，还包括重要视觉内容的描述，例如“Athan离开房间”。
 
-> ![原则5 为多媒体创建成绩单和标题.jpg](https://upload-images.jianshu.io/upload_images/9746829-6514f65c98e456e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+> ![原则5 为多媒体创建成绩单和标题.jpg](https://upload-images.jianshu.io/upload_images/9746829-a108d45c4588ba39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ***
 
 **6、提供明确的说明** Provide clear instructions
 
 确保说明，指导和错误消息清晰，易于理解，并避免使用不必要的技术语言。描述输入要求，例如日期格式。
 
-> ![原则6 提供明确的说明 .jpg](https://upload-images.jianshu.io/upload_images/9746829-a108d45c4588ba39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![原则6 提供明确的说明 .jpg](https://upload-images.jianshu.io/upload_images/9746829-894ce994ff541c48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 >示例：说明传达用户应提供的信息 
 - 密码至少应为六个字符，且至少有一个数字（0-9）。
@@ -103,7 +100,6 @@
 - 考虑使用图像，插图，视频，音频和符号来帮助澄清意义。
 
 
-> ![原则7 保持内容清晰简洁.jpg](https://upload-images.jianshu.io/upload_images/9746829-894ce994ff541c48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![原则7（2）.jpg](https://upload-images.jianshu.io/upload_images/9746829-50a655821bf8c208.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![原则7 保持内容清晰简洁.jpg](https://upload-images.jianshu.io/upload_images/9746829-50a655821bf8c208.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
